@@ -1,2 +1,2 @@
 # EDP-poem
-A demo poem for using Git + GitHub
+A quick, in-class demo poem for using Git + GitHub
